@@ -1,4 +1,4 @@
-(defproject broken-record "0.1.0-SNAPSHOT"
+(defproject broken-record "0.1.0"
   :description "Very slightly enhanced Clojure records because Russell hates boilerplate."
   :url "http://github.com/bugsbio/broken-record"
   :license {:name "MIT"
